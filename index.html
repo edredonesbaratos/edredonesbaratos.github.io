@@ -27,7 +27,8 @@ layout: default
     </header>
 
     <article class="post-content">
-      {{ post.content }}
+   {% for product in site.products %}
+  {% include product.html %}
     </article> <hr />
     
     {% endfor %}
