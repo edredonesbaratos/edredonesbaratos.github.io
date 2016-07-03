@@ -2,6 +2,25 @@
 layout: products
 ---
 
-{% for product in site.products %}
+<div class="home">
+  <div class="post">
+    
+    {% for post in paginator.posts %}
+  
+    <header class="post-header">
+      {% for product in site.products %}
   {% include product.html %}
 {% endfor %}
+      </p>
+    </header>
+
+    <article class="post-content">
+   {% for product in site.products %}
+  {% include product.html %}
+{% endfor %}    
+</article> <hr />
+    
+    {% endfor %}
+  
+  </div>
+</div>
