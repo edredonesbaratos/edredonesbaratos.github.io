@@ -2,9 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>http://musicap3.com/</loc>
-<lastmod>2015-06-06</lastmod>
+<lastmod>2016-07-03</lastmod>
 <changefreq>daily</changefreq>
 <priority>1.0</priority>
+</url>
+
+<url>
+<loc>http://musicap3.com/Amazon-echo/</loc>
+
+<lastmod>2016-02-15</lastmod>
+
+</url>
+
+<url>
+<loc>http://musicap3.com/Auriculares-inalambricos-Gogroove-BlueVIBE-F1T/</loc>
+
+<lastmod>2015-10-24</lastmod>
+
+</url>
+
+<url>
+<loc>http://musicap3.com/Reproductor-Mp3-acuatico-AGPTek-Waterproof/</loc>
+
+<lastmod>2015-06-07</lastmod>
+
 </url>
 
 <url>
@@ -169,7 +190,7 @@
 </url>
 
 <url>
-<loc>http://musicap3.com/Reproductor-Mp3-Transcend-TS8GMP350B%20Outdoor/</loc>
+<loc>http://musicap3.com/Reproductor-Mp3-Transcend-TS8GMP350B-Outdoor/</loc>
 
 <lastmod>2015-02-21</lastmod>
 
@@ -179,115 +200,79 @@
 <url>
 <loc>http://musicap3.com/categories/</loc>
 
-<lastmod>2015-06-06</lastmod>
+<lastmod>2016-07-03</lastmod>
 
 
 
 </url>
 
 <url>
-<loc>http://musicap3.com/accesorios/index.html</loc>
+<loc>http://musicap3.com/mp3-para-coches/</loc>
 
-<lastmod>2015-06-06</lastmod>
-
-
-
-</url>
-
-<url>
-<loc>http://musicap3.com/auriculares-inalambricos/index.html</loc>
-
-<lastmod>2015-06-06</lastmod>
+<lastmod>2016-07-03</lastmod>
 
 
 
 </url>
 
 <url>
-<loc>http://musicap3.com/reproductores-mp3/index.html</loc>
+<loc>http://musicap3.com/mp3-para-correr/</loc>
 
-<lastmod>2015-06-06</lastmod>
-
-
-
-</url>
-
-<url>
-<loc>http://musicap3.com/mp3-para-correr/index.html</loc>
-
-<lastmod>2015-06-06</lastmod>
+<lastmod>2016-07-03</lastmod>
 
 
 
 </url>
 
 <url>
-<loc>http://musicap3.com/mp3-para-coches/index.html</loc>
+<loc>http://musicap3.com/reproductores-mp3/</loc>
 
-<lastmod>2015-06-06</lastmod>
-
-
-
-</url>
-
-<url>
-<loc>http://musicap3.com/cargador-portatil/index.html</loc>
-
-<lastmod>2015-06-06</lastmod>
+<lastmod>2016-07-03</lastmod>
 
 
 
 </url>
 
 <url>
-<loc>http://musicap3.com/index.html</loc>
+<loc>http://musicap3.com/auriculares-inalambricos/</loc>
 
-<lastmod>2015-06-06</lastmod>
-
-
-
-</url>
-
-<url>
-<loc>http://musicap3.com/mp3-acuaticos/index.html</loc>
-
-<lastmod>2015-06-06</lastmod>
+<lastmod>2016-07-03</lastmod>
 
 
 
 </url>
 
 <url>
-<loc>http://musicap3.com/page2/index.html</loc>
+<loc>http://musicap3.com/cargador-portatil/</loc>
 
-<lastmod>2015-06-06</lastmod>
-
-
-
-</url>
-
-<url>
-<loc>http://musicap3.com/page3/index.html</loc>
-
-<lastmod>2015-06-06</lastmod>
+<lastmod>2016-07-03</lastmod>
 
 
 
 </url>
 
 <url>
-<loc>http://musicap3.com/page4/index.html</loc>
+<loc>http://musicap3.com/mp3-acuaticos/</loc>
 
-<lastmod>2015-06-06</lastmod>
+<lastmod>2016-07-03</lastmod>
 
 
 
 </url>
 
 <url>
-<loc>http://musicap3.com/page5/index.html</loc>
+<loc>http://musicap3.com/</loc>
 
-<lastmod>2015-06-06</lastmod>
+<lastmod>2016-07-03</lastmod>
+
+
+
+</url>
+
+<url>
+<loc>http://musicap3.com/accesorios/</loc>
+
+<lastmod>2016-07-03</lastmod>
 
 
 
