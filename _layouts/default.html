@@ -7,11 +7,23 @@
 
     {% include header.html %}
 
+  {% if site.default_column == "two" %}  
+
     <div class="page-content">
 
       {{ content }}
 
     </div>
+
+  {% include sidebar.html %}
+
+  {% else %}
+
+  <div class="page-content">
+    <div class="wrapper">
+      {{ content }}
+    </div>
+  </div>
 
     {% include footer.html %}
 
