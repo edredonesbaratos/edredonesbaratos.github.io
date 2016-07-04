@@ -1,8 +1,8 @@
 ### Site info:
-title: Reproductores MP3
+title: Edredones Baratos
 tagline: Análisis de productos y accesorios MP3
 author: Sergio de Diego
-title: "Reproductores MP3"
+title: "Edredones Baratos"
 description: "Análisis de los mejores productos y accesorios MP3 actualmente en venta." # You can edit this line in _config.yml. It will appear in your document head meta and in your feed.xml site description
 
 
@@ -56,5 +56,4 @@ paginate: 5
 collections:
   products:
     output: true
-
 
